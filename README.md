@@ -20,7 +20,7 @@ Developed an interactive Power BI dashboard to analyze sales performance, revenu
 
 ### Dashboard Link
 [https://your-powerbi-dashboard-link
-](https://app.powerbi.com/view?r=eyJrIjoiOWYzMzcxNWQtMTBiMS00YzFhLTllYmMtZDI2MTEwMTlhMGYwIiwidCI6IjFlNWM0YTQ3LTNkNjQtNGY2NC04MjEyLWI4Yzg1NzljYzEzYSJ9)
+(https://app.powerbi.com/view?r=eyJrIjoiOWYzMzcxNWQtMTBiMS00YzFhLTllYmMtZDI2MTEwMTlhMGYwIiwidCI6IjFlNWM0YTQ3LTNkNjQtNGY2NC04MjEyLWI4Yzg1NzljYzEzYSJ9)]
 
 ---
 
